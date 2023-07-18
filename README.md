@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mabrisak
+- 👋 Hi, I’m @mabdirazak
 - 👀 I’m interested in web dev
 - 🌱 I’m currently learning js 
 - 💞️ I’m looking to collaborate on basic web projects
